@@ -1,0 +1,13 @@
+# VS Code / Java extension
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# Java / Maven
+*.class
+target/
+
+# macOS
+.DS_Store
